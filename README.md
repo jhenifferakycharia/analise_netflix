@@ -36,19 +36,20 @@ Com o crescimento exponencial do catálogo da Netflix, torna-se crucial entender
 
 ## Resultados
 
-### 1. **Evolução de Títulos Adicionados por País ao Longo dos Anos**
+### 1. **Top 10 Países com Mais Títulos na Netflix**
+O segundo gráfico revela que, além dos EUA, que lidera com folga, países como **Índia**, **Reino Unido**, e **Japão** estão se tornando fontes importantes de conteúdo na plataforma. **Coreia do Sul** também se destaca, refletindo o sucesso global de produções asiáticas.
+
+#### **Insight Econômico**:
+- A distribuição de títulos por país mostra uma abordagem estratégica da Netflix para **controle de custos** ao diversificar a produção em mercados com custos menores. Países como Índia e Japão não apenas produzem conteúdos mais acessíveis em termos financeiros, mas também atraem grandes audiências em nível global.
+- Ao globalizar títulos regionais, a Netflix maximiza o retorno sobre o conteúdo produzido localmente, permitindo **maior otimização de custos**.
+
+### 2. **Evolução de Títulos Adicionados por País ao Longo dos Anos**
 No primeiro gráfico, observamos que os **Estados Unidos** continuam a liderar a quantidade de títulos adicionados à Netflix. No entanto, após 2016, houve um crescimento notável em títulos oriundos de países como **Índia**, **Reino Unido**, **Japão**, e **Coreia do Sul**. Esses países emergentes contribuíram significativamente para o catálogo da Netflix, com uma diversificação crescente a partir de 2016.
 
 #### **Insight Econômico**:
 - A produção local em países como Índia e Coreia do Sul oferece uma oportunidade de **redução de custos** para a Netflix. Com **custos de produção mais baixos**, a empresa pode aumentar o volume de conteúdo e reduzir a dependência de produções caras originadas dos EUA.
 - A Netflix pode explorar **conteúdos locais** que tenham apelo global, como séries coreanas e animes japoneses, permitindo maior retorno sobre o investimento.
 
-### 2. **Top 10 Países com Mais Títulos na Netflix**
-O segundo gráfico revela que, além dos EUA, que lidera com folga, países como **Índia**, **Reino Unido**, e **Japão** estão se tornando fontes importantes de conteúdo na plataforma. **Coreia do Sul** também se destaca, refletindo o sucesso global de produções asiáticas.
-
-#### **Insight Econômico**:
-- A distribuição de títulos por país mostra uma abordagem estratégica da Netflix para **controle de custos** ao diversificar a produção em mercados com custos menores. Países como Índia e Japão não apenas produzem conteúdos mais acessíveis em termos financeiros, mas também atraem grandes audiências em nível global.
-- Ao globalizar títulos regionais, a Netflix maximiza o retorno sobre o conteúdo produzido localmente, permitindo **maior otimização de custos**.
 
 ### 3. **Duração Média de Filmes e Séries ao Longo dos Anos**
 A duração média de filmes e séries tem se mantido relativamente constante, com filmes tendendo a ter entre **90-120 minutos** e séries variando conforme o número de temporadas e episódios. No entanto, o aumento na produção de séries com episódios de curta duração indica uma possível tentativa de economizar nos custos de produção enquanto mantém a entrega de conteúdo de alta qualidade.
